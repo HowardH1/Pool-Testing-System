@@ -30,3 +30,11 @@ Given the app is making proper calculations
 When I input a CYA value of -500
 
 Then I should recieve a message asking for a vaild input range
+
+**ROLES**
+DevOps/Product Owner/Scrum Master: Howie Hall
+Frontend Developer: Katie Dipaola
+Integration Developer: Blake Warner
+
+**WEEKLY MEETING**
+Facetime @ 7:00PM every Sunday
