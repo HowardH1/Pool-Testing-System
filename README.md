@@ -60,7 +60,7 @@ Frontend Developer: Katie Dipaola
 <br>
 Frontend Inegration Specialist: Hasseb Ikram
 <br>
-Integration Developer: Blake Warner
+Integration Developer: Blake Warner, Alexander Pugh
 <br>
 
 
