@@ -20,20 +20,20 @@ Takes input from the user about their pool chemical levels and provides guidance
 <h4>SCENARIO</h4>
 As a user who upkeeps a pool I wish to monitor and understand the various chemical aspects of my pool.
 
-ASSUMPTIONS
+<h4>ASSUMPTIONS</h4>
 Numbers are input in a float point format
 
-EXAMPLES
+<h4>EXAMPLES</h4>
 Given the app is making proper calculations
 
 When I input a pH level of 6.5 & a pool size of 16000 gallons
 
 Then I should recieve proper guidance and chemical recommendations to return it to a safe pH range: "Your pH level is too low, add 4.5oz of dry acid to your pool. Do not swim for 8 hours after application."
 
-ASSUMPTIONS
+<h4>ASSUMPTIONS</h4>
 Numbers are input in a float point format
 
-EXAMPLES
+<h4>EXAMPLES</h4>
 Given the app is making proper calculations
 
 When I input a CYA value of -500
@@ -55,8 +55,14 @@ Chemical: Noun class that represents various pool chemicals.
 <h2>ROLES</h2>
 
 DevOps/Product Owner/Scrum Master: Howie Hall
+<br>
 Frontend Developer: Katie Dipaola
+<br>
+Frontend Inegration Specialist: Hasseb Ikram
+<br>
 Integration Developer: Blake Warner
+<br>
+
 
 <h2>WEEKLY MEETING</h2>
 
