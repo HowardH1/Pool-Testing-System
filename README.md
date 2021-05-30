@@ -29,12 +29,26 @@ Given the app is making proper calculations
 
 When I input a CYA value of -500
 
-Then I should recieve a message asking for a vaild input range
+Then I should recieve a message asking for a vaild input range: "That is not a valid input, please input a positive number in the range (range for chemical)."
+
+**CLASS DIAGRAM**
+
+![Chemicals](https://user-images.githubusercontent.com/70410161/120087131-73d5c300-c0b3-11eb-98e1-3f99463dea2b.jpeg)
+
+**CLASS DIAGRAM DESCRIPTION**
+
+MainActivity: The first screen the user sees, which will have areas to input different specifications about their pool.
+
+PoolDetailActivity: Displays information about the current state of the user's pool, and what they can do to improve it.
+
+Chemical: Noun class that represents various pool chemicals.
 
 **ROLES**
+
 DevOps/Product Owner/Scrum Master: Howie Hall
 Frontend Developer: Katie Dipaola
 Integration Developer: Blake Warner
 
 **WEEKLY MEETING**
+
 Facetime @ 7:00PM every Sunday
