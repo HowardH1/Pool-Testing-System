@@ -17,7 +17,7 @@ Takes input from the user about their pool chemical levels and provides guidance
 <br>
 ![pool tester](https://user-images.githubusercontent.com/56894894/120109395-45013080-c137-11eb-8dbf-42044cb5614d.PNG)
 
-**FUNCTIONAL REQUIREMENTS**
+<h2>FUNCTIONAL REQUIREMENTS</h2>
 SCENARIO
 As a user who upkeeps a pool I wish to monitor and understand the various chemical aspects of my pool.
 
@@ -41,11 +41,11 @@ When I input a CYA value of -500
 
 Then I should recieve a message asking for a vaild input range: "That is not a valid input, please input a positive number in the range (range for chemical)."
 
-**CLASS DIAGRAM**
+<h2>CLASS DIAGRAM</h2>
 
 ![Chemicals](https://user-images.githubusercontent.com/70410161/120087131-73d5c300-c0b3-11eb-98e1-3f99463dea2b.jpeg)
 
-**CLASS DIAGRAM DESCRIPTION**
+<h2>CLASS DIAGRAM DESCRIPTION</h2>
 
 MainActivity: The first screen the user sees, which will have areas to input different specifications about their pool.
 
@@ -53,12 +53,12 @@ PoolDetailActivity: Displays information about the current state of the user's p
 
 Chemical: Noun class that represents various pool chemicals.
 
-**ROLES**
+<h2>ROLES</h2>
 
 DevOps/Product Owner/Scrum Master: Howie Hall
 Frontend Developer: Katie Dipaola
 Integration Developer: Blake Warner
 
-**WEEKLY MEETING**
+<h2>WEEKLY MEETING</h2>
 
 Facetime @ 7:00PM every Sunday
