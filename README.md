@@ -7,6 +7,8 @@ Takes input from the user about their pool chemical levels and provides guidance
 
 **STORYBOARD**
 
+![pool tester](https://user-images.githubusercontent.com/56894894/120109395-45013080-c137-11eb-8dbf-42044cb5614d.PNG)
+
 **FUNCTIONAL REQUIREMENTS**
 SCENARIO
 As a user who upkeeps a pool I wish to monitor and understand the various chemical aspects of my pool.
